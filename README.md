@@ -6,4 +6,8 @@ The purpose of this election analysis is to determine the winning candidate of t
 ## ELECTION AUDIT RESULTS:
 ### Total Votes Cast in Congressional Election:
 > Total votes cast in this congressional elections were 369,711.
+
 > ![image](https://user-images.githubusercontent.com/86074187/125487634-b4481a46-b3fe-4e8a-847e-72ab38112aba.png)
+
+### Breakdown of the Numbers for Each County:
+> |**COUNTY**|**NO. OF VOTES RECEIVED**|**% OF TOTAL VOTES**|  
