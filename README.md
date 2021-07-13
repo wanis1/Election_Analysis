@@ -10,4 +10,8 @@ The purpose of this election analysis is to determine the winning candidate of t
 > ![image](https://user-images.githubusercontent.com/86074187/125487634-b4481a46-b3fe-4e8a-847e-72ab38112aba.png)
 
 ### Breakdown of the Numbers for Each County:
-> |**COUNTY**|**NO. OF VOTES RECEIVED**|**% OF TOTAL VOTES**|  
+|**COUNTY**|**NO. OF VOTES RECEIVED**|**% OF TOTAL VOTES**|  
+|----------|-------------------------|--------------------|
+|Arapahoe| 24,801| 6.71% |
+|Denver| 306,055| 82.78% |
+|Jefferson| 38,855 |10.51%|
